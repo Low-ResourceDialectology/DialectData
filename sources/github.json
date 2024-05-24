@@ -183,6 +183,30 @@
 				"Language and Speech Technology for {Central Kurdish} Varieties":"URL_or_DOI"
 			},
 			"Languages":["ckb"]
+		},
+		"2023MailNLLB":{
+			"URL":"https://github.com/openlanguagedata/seed",
+			"Authors":"Maillard, Jean and Gao, Cynthia and Kalbassi, Elahe and Sadagopan, Kaushik Ram and Goswami, Vedanuj and Koehn, Philipp and Fan, Angela and Guzmán, Francisco",
+			"Publications":{
+				"Small Data, Big Impact: Leveraging Minimal Data for Effective Machine Translation":"https://aclanthology.org/2023.acl-long.154"
+			},
+			"Languages":["eng","more"]
+		},
+		"2020SiewLSDC":{
+			"URL":"https://github.com/Helsinki-NLP/LSDC",
+			"Authors":"Siewert, Janine and Scherrer, Yves and Wieling, Martijn and Tiedemann, Jörg",
+			"Publications":{
+				"LSDC - A comprehensive dataset for Low {S}axon Dialect Classification":"https://www.aclweb.org/anthology/2020.vardial-1.3"
+			},
+			"Languages":["nds"]
+		},
+		"2021SiewLSDC":{
+			"URL":"https://github.com/Helsinki-NLP/LSDC-morph",
+			"Authors":"Siewert, Janine and Scherrer, Yves and Tiedemann, Jörg",
+			"Publications":{
+				"Towards a balanced annotated Low {S}axon dataset for diachronic investigation of dialectal variation":"https://aclanthology.org/2021.konvens-1.25"
+			},
+			"Languages":["nds"]
 		}
 	},
 	"work_in_progress":{

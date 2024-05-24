@@ -1,7 +1,7 @@
 #!/bin/bash
 # Install a (by name) specified list of tools into target directory
 # Use: cd ./download
-#         bash opustools.sh /media/AllBlue/LanguageData ku-Latn ku-Arab
+#         bash /media/CrazyProjects/LowResDialectology/DialectData/download/opustools.sh /media/AllBlue/LanguageData ku-Latn ku-Arab
 
 CURRENT="$PWD"
 
